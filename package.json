@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon filtered_stream.js",
-    "server": "node filtered_stream.js"
+    "start": "node filtered_stream.js"
   },
   "keywords": [],
   "author": "",
