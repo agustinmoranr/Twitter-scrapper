@@ -102,7 +102,7 @@ async function setRules() {
 function streamConnect(token) {
   //Listen to the stream
   const options = {
-    timeout: 1000 * 12,
+    timeout: 1000 * 60 * 12,
   };
 
   const stream = needle.get(
