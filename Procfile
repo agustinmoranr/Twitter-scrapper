@@ -1,0 +1,1 @@
+worker: node filtered_stream.js

@@ -16,8 +16,6 @@ const streamURL =
 
 // Edit rules as desired here below
 const rules = [
-  // { 'value': 'dog has:images -is:retweet', 'tag': 'dog pictures' },
-  // { 'value': 'cat has:images -grumpy', 'tag': 'cat pictures' },
   {
     value: "#govtech govtech",
     tag: "govtech",
