@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon filtered_stream.js",
-    "start": "node filtered_stream.js"
+    "start": "node filtered_stream.js",
+    "dev": "nodemon filtered_stream.js"
   },
   "keywords": [],
   "author": "",
