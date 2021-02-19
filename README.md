@@ -4,6 +4,10 @@ Proyecto para extarer tweets utilizando el endpoint the ***Streaming*** que prov
 
 Más información en [Twitter-API](https://developer.twitter.com/en/docs/twitter-api/tweets/filtered-stream/introduction).
 
+Mira una de las aplicaciones de este proyecto en 
+- Repository: [Twitter scraper frontend](https://github.com/agustinmoranr/Twitter-scraper-frontend).
+- Website: [Twitter-scraper-vercel](https://twitter-scraper-ten.vercel.app).
+
 **¡Qué tal!**
 
 En este proyecto podrás aprender a:
